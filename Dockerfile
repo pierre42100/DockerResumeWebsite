@@ -1,4 +1,4 @@
-FROM ubuntu:eoan
+FROM ubuntu:focal
 
 # Run in non-interactive mode
 ENV DEBIAN_FRONTEND="noninteractive" HOME="/"
